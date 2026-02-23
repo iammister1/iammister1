@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello, profile traveller! This is my profile.
 
-<!--
-**iammister1/iammister1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, there is not much here, and I am trying to change that.
 
-Here are some ideas to get you started:
+I work with Python, HTML, CSS, JavaScript and C#. Though am not afraid to work with another language for a project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❓ **What Am I working on?**
+
+Currently, I do not have a set goal for a project, nor am I rushing to get one.
+
+
+
+Wow, was this a waste of time and I hope you also wasted your time reading this too.
